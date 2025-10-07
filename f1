@@ -1,1 +1,10 @@
 Initial content
+<<<<<<< HEAD
+Change on development
+=======
+Implement the login functionality
+Another change on feature branch
+>>>>>>> feature/login
+Case 1
+Case 2
+Case 3
